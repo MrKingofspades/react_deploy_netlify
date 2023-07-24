@@ -61,7 +61,4 @@ const handleSubmit = (e) => {
   );
 }
 
-{/* // shift+alt+a for comments */}
-
-
 export default App;
